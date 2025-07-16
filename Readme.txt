@@ -1,1 +1,1 @@
-This repository contains code to demonstrate mutual friction in Bose-Einstein Condensates 
+This repository contains code to demonstrate mutual friction in Bose-Einstein Condensates at finite temperatures. A pair of vortices are placed at the center of a two-dimensional square optical box trap with the same circulation as one another. The temperature is chosen such that quantum fluctuations are negligable and thermal flucutations dominate. 
